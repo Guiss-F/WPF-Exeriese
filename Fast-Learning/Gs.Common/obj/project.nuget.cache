@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOhBoa356ln9YPOP8P0e7DyVX3p4M0w2c86Mf8LVotY85w84rGTGVsvXBcFH3EK+bhKB1QxKau4TD/yo12QS7g==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\WPF-Exeriese\\Fast-Learning\\Gs.Common\\Gs.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FWB\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\FWB\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\FWB\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\bin\Debug\net6.0-windows10.0.18362.0\Gs.Common.deps.json
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\bin\Debug\net6.0-windows10.0.18362.0\Gs.Common.dll
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\bin\Debug\net6.0-windows10.0.18362.0\ref\Gs.Common.dll
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\bin\Debug\net6.0-windows10.0.18362.0\Gs.Common.pdb
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.csproj.AssemblyReference.cache
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.AssemblyInfoInputs.cache
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.AssemblyInfo.cs
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.csproj.CoreCompileInputs.cache
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.dll
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\ref\Gs.Common.dll
+E:\Code\WPF-Exeriese\Fast-Learning\Gs.Common\obj\Debug\net6.0-windows10.0.18362.0\Gs.Common.pdb

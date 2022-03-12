@@ -33,12 +33,37 @@
                 
             </TextBox>
         </StackPanel>
-        <ComboBox
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <ComboBox
             x:Name="LoginType"
             Grid.Row="2"
             Width="200"
             Height="25"
             ItemsSource="{Binding LoginTypes}"/>
-        <Button Grid.Row="3" Width="200" Height="30" Content="Login" Name="BtnLogin" Click="Button_Click"></Button>
+            <CheckBox
+            Name="ChkboxPwd"
+            Margin="10"
+            Content="是否记住密码"/>
+        </StackPanel>
+        <!-- Click="Button_Click"-->
+        <StackPanel Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <Button
+                Name="BtnLogin"
+                Margin="20"
+                Width="200" 
+                Height="30" 
+                Content="Login"
+                Command="{Binding LoginCommand}">
+            </Button>
+            <Button
+                Name="BtnCheck"
+                Margin="20"
+                Width="200" 
+                Height="30" 
+                Content="Check"
+                Command="{Binding CancelRemberCommand}"
+                CommandParameter="{Binding ElementName=ChkboxPwd, Path=IsChecked}">
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>
